@@ -117,7 +117,7 @@ p
 
 #contactDetails ul li a:hover
 {
-	color: #cf8a05;
+	color: #357ccf;
 }
 
 
@@ -180,6 +180,11 @@ section:last-child
 	margin-bottom: 20px;
 	font-size: 1em;
 	color: #444;
+}
+
+#mainArea > section:nth-child(5) > div.sectionContent > ul > li:nth-child(even)
+{
+	color: #494ccf;
 }
 
 .keySkills ul li
