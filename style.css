@@ -182,7 +182,7 @@ section:last-child
 	color: #444;
 }
 
-#mainArea > section:nth-child(5) > div.sectionContent > ul > li:nth-child(even)
+#mainArea > section:nth-child(5) > div.sectionContent > ul > li:nth-child(even), #mainArea > section:nth-child(6) > div.sectionContent > ul > li:nth-child(even)
 {
 	color: #494ccf;
 }
